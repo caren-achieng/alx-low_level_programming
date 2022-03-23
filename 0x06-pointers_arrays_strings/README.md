@@ -6,7 +6,7 @@ ALX Project on C pointers, arrays and strings using C functions.
 * vi, vim, emacs editors
 * C files are compiled using `gcc` using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 * C files are written according to the Betty style
-* Compliled on Ubuntu 20.04 LTS
+* Compiled on Ubuntu 20.04 LTS
 
 ## Files
 All of the following files are programs written in C:
